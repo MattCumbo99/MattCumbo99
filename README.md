@@ -1,4 +1,5 @@
 <!-- Shamelessly taken from https://github.com/iannisdezwart/iannisdezwart/blob/main/README.md -->
+[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattCumbo99)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
 	<h1>👋 Hi there! I'm Matthew Cumbo 🇺🇸</h1>
 	<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">

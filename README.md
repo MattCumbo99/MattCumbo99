@@ -1,1 +1,3 @@
-Full-stack developer and gamer. Software and tech enthusiast since 2011.
+Full-stack developer and gamer.
+
+Object Oriented Programming my beloved!
